@@ -1,0 +1,35 @@
+DaaSAutomation_getStats.py: 2017-12-26 02:50:35:    DEBUG: Output '
+Pool-NOAVIC147 : VM memory usage : 532MB , Host memory usage : 2085MB , overall cpu usage : 195MHz
+Pool-NOAVIC142 : VM memory usage : 942MB , Host memory usage : 2084MB , overall cpu usage : 251MHz
+Pool-NOAVIC146 : VM memory usage : 942MB , Host memory usage : 2083MB , overall cpu usage : 2938MHz
+Pool-NOAVIC143 : VM memory usage : 798MB , Host memory usage : 2084MB , overall cpu usage : 2211MHz
+Pool-NOAVIC145 : VM memory usage : 778MB , Host memory usage : 2084MB , overall cpu usage : 783MHz
+Pool-NOAVIC144 : VM memory usage : 901MB , Host memory usage : 2083MB , overall cpu usage : 307MHz
+Pool-NOAVIC141 : VM memory usage : 1044MB , Host memory usage : 2084MB , overall cpu usage : 363MHz
+Pool-NOAVIC140 : VM memory usage : 1781MB , Host memory usage : 2082MB , overall cpu usage : 391MHz
+Pool-NOAVIC148 : VM memory usage : 634MB , Host memory usage : 2085MB , overall cpu usage : 419MHz
+Pool-NOAVIC149 : VM memory usage : 860MB , Host memory usage : 2084MB , overall cpu usage : 251MHz'
+DaaSAutomation_getStats.py: 2017-12-26 02:50:35:    DEBUG: Sleep for 2min
+DaaSAutomation_getStats.py: 2017-12-26 02:52:35:    DEBUG: Host : 'vim.HostSystem:host-132'
+DaaSAutomation_getStats.py: 2017-12-26 02:52:35:    DEBUG: Host : 'vim.HostSystem:host-132'
+DaaSAutomation_getStats.py: 2017-12-26 02:52:36:    DEBUG: Output '
+Pool-NOAVIC147 : VM memory usage : 532MB , Host memory usage : 2085MB , overall cpu usage : 195MHz
+Pool-NOAVIC142 : VM memory usage : 942MB , Host memory usage : 2084MB , overall cpu usage : 251MHz
+Pool-NOAVIC146 : VM memory usage : 942MB , Host memory usage : 2083MB , overall cpu usage : 2938MHz
+Pool-NOAVIC143 : VM memory usage : 798MB , Host memory usage : 2084MB , overall cpu usage : 2211MHz
+Pool-NOAVIC145 : VM memory usage : 778MB , Host memory usage : 2084MB , overall cpu usage : 783MHz
+Pool-NOAVIC144 : VM memory usage : 901MB , Host memory usage : 2083MB , overall cpu usage : 307MHz
+Pool-NOAVIC141 : VM memory usage : 1044MB , Host memory usage : 2084MB , overall cpu usage : 363MHz
+Pool-NOAVIC140 : VM memory usage : 1781MB , Host memory usage : 2082MB , overall cpu usage : 391MHz
+Pool-NOAVIC148 : VM memory usage : 634MB , Host memory usage : 2085MB , overall cpu usage : 419MHz
+Pool-NOAVIC149 : VM memory usage : 860MB , Host memory usage : 2084MB , overall cpu usage : 251MHz
+Pool-NOAVIC147 : VM memory usage : 512MB , Host memory usage : 2085MB , overall cpu usage : 195MHz
+Pool-NOAVIC142 : VM memory usage : 757MB , Host memory usage : 2084MB , overall cpu usage : 307MHz
+Pool-NOAVIC146 : VM memory usage : 942MB , Host memory usage : 2084MB , overall cpu usage : 307MHz
+Pool-NOAVIC143 : VM memory usage : 1003MB , Host memory usage : 2084MB , overall cpu usage : 447MHz
+Pool-NOAVIC145 : VM memory usage : 675MB , Host memory usage : 2084MB , overall cpu usage : 251MHz
+Pool-NOAVIC144 : VM memory usage : 757MB , Host memory usage : 2083MB , overall cpu usage : 307MHz
+Pool-NOAVIC141 : VM memory usage : 1085MB , Host memory usage : 2084MB , overall cpu usage : 419MHz
+Pool-NOAVIC140 : VM memory usage : 1290MB , Host memory usage : 2082MB , overall cpu usage : 279MHz
+Pool-NOAVIC148 : VM memory usage : 634MB , Host memory usage : 2085MB , overall cpu usage : 279MHz
+Pool-NOAVIC149 : VM memory usage : 778MB , Host memory usage : 2084MB , overall cpu usage : 251MHz'
